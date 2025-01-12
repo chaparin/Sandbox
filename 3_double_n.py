@@ -24,3 +24,4 @@ result = double_each_n(20)
 print(result)  # Output: 32 (1 -> 2 -> 4 -> 8 -> 16 -> 32)
 
 # Yet another comment
+# Commenting again
