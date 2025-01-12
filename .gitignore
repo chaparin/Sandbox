@@ -1,0 +1,40 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# IDE specific files
+.idea/
+*.iml
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Local configuration
+*.env
+config.py
+
+# Build/distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*~
+*.swp
+
+# Django specific
+db.sqlite3
+# static/  # Only if you build static assets during deployment
+# media/   # Only if you store user uploads elsewhere in production
